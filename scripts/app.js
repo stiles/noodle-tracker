@@ -1,7 +1,12 @@
-// Write your code!
-console.log("Hello bakers");
+import { dateParser } from './utils/d3-utils';
 
 // Grab some data
-const dataElement = document.getElementById('example-data');
+const dataElement = document.getElementById('bonesdays');
 const data = JSON.parse(dataElement.textContent);
-console.log(data);
+
+const bonesData = data.map((d) => {
+    d.date = dateParser(d.date);
+    return d;
+  });
+
+console.log(bonesData);

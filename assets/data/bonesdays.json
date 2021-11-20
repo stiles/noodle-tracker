@@ -1,0 +1,590 @@
+[
+    {
+        "date":1637280000000,
+        "bones_nobones":"No bones",
+        "weekday":"Friday",
+        "month":"November",
+        "weekend":false
+    },
+    {
+        "date":1637193600000,
+        "bones_nobones":"Bones!",
+        "weekday":"Thursday",
+        "month":"November",
+        "weekend":false
+    },
+    {
+        "date":1637020800000,
+        "bones_nobones":"Bones!",
+        "weekday":"Tuesday",
+        "month":"November",
+        "weekend":false
+    },
+    {
+        "date":1636934400000,
+        "bones_nobones":"Bones!",
+        "weekday":"Monday",
+        "month":"November",
+        "weekend":false
+    },
+    {
+        "date":1636675200000,
+        "bones_nobones":"No bones",
+        "weekday":"Friday",
+        "month":"November",
+        "weekend":false
+    },
+    {
+        "date":1636588800000,
+        "bones_nobones":"No bones",
+        "weekday":"Thursday",
+        "month":"November",
+        "weekend":false
+    },
+    {
+        "date":1636416000000,
+        "bones_nobones":"Bones!",
+        "weekday":"Tuesday",
+        "month":"November",
+        "weekend":false
+    },
+    {
+        "date":1636329600000,
+        "bones_nobones":"Bones!",
+        "weekday":"Monday",
+        "month":"November",
+        "weekend":false
+    },
+    {
+        "date":1636243200000,
+        "bones_nobones":"No bones",
+        "weekday":"Sunday",
+        "month":"November",
+        "weekend":true
+    },
+    {
+        "date":1636070400000,
+        "bones_nobones":"Bones!",
+        "weekday":"Friday",
+        "month":"November",
+        "weekend":false
+    },
+    {
+        "date":1635984000000,
+        "bones_nobones":"Bones!",
+        "weekday":"Thursday",
+        "month":"November",
+        "weekend":false
+    },
+    {
+        "date":1635897600000,
+        "bones_nobones":"Bones!",
+        "weekday":"Wednesday",
+        "month":"November",
+        "weekend":false
+    },
+    {
+        "date":1635811200000,
+        "bones_nobones":"No bones",
+        "weekday":"Tuesday",
+        "month":"November",
+        "weekend":false
+    },
+    {
+        "date":1635724800000,
+        "bones_nobones":"No bones",
+        "weekday":"Monday",
+        "month":"November",
+        "weekend":false
+    },
+    {
+        "date":1635638400000,
+        "bones_nobones":"Bones!",
+        "weekday":"Sunday",
+        "month":"October",
+        "weekend":true
+    },
+    {
+        "date":1635379200000,
+        "bones_nobones":"Bones!",
+        "weekday":"Thursday",
+        "month":"October",
+        "weekend":false
+    },
+    {
+        "date":1635206400000,
+        "bones_nobones":"No bones",
+        "weekday":"Tuesday",
+        "month":"October",
+        "weekend":false
+    },
+    {
+        "date":1635120000000,
+        "bones_nobones":"Bones!",
+        "weekday":"Monday",
+        "month":"October",
+        "weekend":false
+    },
+    {
+        "date":1634947200000,
+        "bones_nobones":"Bones!",
+        "weekday":"Saturday",
+        "month":"October",
+        "weekend":true
+    },
+    {
+        "date":1634860800000,
+        "bones_nobones":"No bones",
+        "weekday":"Friday",
+        "month":"October",
+        "weekend":false
+    },
+    {
+        "date":1634774400000,
+        "bones_nobones":"No bones",
+        "weekday":"Thursday",
+        "month":"October",
+        "weekend":false
+    },
+    {
+        "date":1634688000000,
+        "bones_nobones":"Bones!",
+        "weekday":"Wednesday",
+        "month":"October",
+        "weekend":false
+    },
+    {
+        "date":1634601600000,
+        "bones_nobones":"No bones",
+        "weekday":"Tuesday",
+        "month":"October",
+        "weekend":false
+    },
+    {
+        "date":1634515200000,
+        "bones_nobones":"Bones!",
+        "weekday":"Monday",
+        "month":"October",
+        "weekend":false
+    },
+    {
+        "date":1634428800000,
+        "bones_nobones":"No bones",
+        "weekday":"Sunday",
+        "month":"October",
+        "weekend":true
+    },
+    {
+        "date":1634342400000,
+        "bones_nobones":"Bones!",
+        "weekday":"Saturday",
+        "month":"October",
+        "weekend":true
+    },
+    {
+        "date":1634256000000,
+        "bones_nobones":"Bones!",
+        "weekday":"Friday",
+        "month":"October",
+        "weekend":false
+    },
+    {
+        "date":1634169600000,
+        "bones_nobones":"No bones",
+        "weekday":"Thursday",
+        "month":"October",
+        "weekend":false
+    },
+    {
+        "date":1634083200000,
+        "bones_nobones":"No bones",
+        "weekday":"Wednesday",
+        "month":"October",
+        "weekend":false
+    },
+    {
+        "date":1633910400000,
+        "bones_nobones":"Bones!",
+        "weekday":"Monday",
+        "month":"October",
+        "weekend":false
+    },
+    {
+        "date":1633737600000,
+        "bones_nobones":"No bones",
+        "weekday":"Saturday",
+        "month":"October",
+        "weekend":true
+    },
+    {
+        "date":1633564800000,
+        "bones_nobones":"Bones!",
+        "weekday":"Thursday",
+        "month":"October",
+        "weekend":false
+    },
+    {
+        "date":1633305600000,
+        "bones_nobones":"No bones",
+        "weekday":"Monday",
+        "month":"October",
+        "weekend":false
+    },
+    {
+        "date":1633046400000,
+        "bones_nobones":"Bones!",
+        "weekday":"Friday",
+        "month":"October",
+        "weekend":false
+    },
+    {
+        "date":1632873600000,
+        "bones_nobones":"No bones",
+        "weekday":"Wednesday",
+        "month":"September",
+        "weekend":false
+    },
+    {
+        "date":1632268800000,
+        "bones_nobones":"No bones",
+        "weekday":"Wednesday",
+        "month":"September",
+        "weekend":false
+    },
+    {
+        "date":1631577600000,
+        "bones_nobones":"Bones!",
+        "weekday":"Tuesday",
+        "month":"September",
+        "weekend":false
+    },
+    {
+        "date":1630800000000,
+        "bones_nobones":"No bones",
+        "weekday":"Sunday",
+        "month":"September",
+        "weekend":true
+    },
+    {
+        "date":1629504000000,
+        "bones_nobones":"No bones",
+        "weekday":"Saturday",
+        "month":"August",
+        "weekend":true
+    },
+    {
+        "date":1628812800000,
+        "bones_nobones":"No bones",
+        "weekday":"Friday",
+        "month":"August",
+        "weekend":false
+    },
+    {
+        "date":1615420800000,
+        "bones_nobones":"No bones",
+        "weekday":"Thursday",
+        "month":"March",
+        "weekend":false
+    },
+    {
+        "date":1630454400000,
+        "bones_nobones":"No video",
+        "weekday":"Wednesday",
+        "month":"September",
+        "weekend":false
+    },
+    {
+        "date":1630540800000,
+        "bones_nobones":"No video",
+        "weekday":"Thursday",
+        "month":"September",
+        "weekend":false
+    },
+    {
+        "date":1630627200000,
+        "bones_nobones":"No video",
+        "weekday":"Friday",
+        "month":"September",
+        "weekend":false
+    },
+    {
+        "date":1630713600000,
+        "bones_nobones":"No video",
+        "weekday":"Saturday",
+        "month":"September",
+        "weekend":true
+    },
+    {
+        "date":1630886400000,
+        "bones_nobones":"No video",
+        "weekday":"Monday",
+        "month":"September",
+        "weekend":false
+    },
+    {
+        "date":1630972800000,
+        "bones_nobones":"No video",
+        "weekday":"Tuesday",
+        "month":"September",
+        "weekend":false
+    },
+    {
+        "date":1631059200000,
+        "bones_nobones":"No video",
+        "weekday":"Wednesday",
+        "month":"September",
+        "weekend":false
+    },
+    {
+        "date":1631145600000,
+        "bones_nobones":"No video",
+        "weekday":"Thursday",
+        "month":"September",
+        "weekend":false
+    },
+    {
+        "date":1631232000000,
+        "bones_nobones":"No video",
+        "weekday":"Friday",
+        "month":"September",
+        "weekend":false
+    },
+    {
+        "date":1631318400000,
+        "bones_nobones":"No video",
+        "weekday":"Saturday",
+        "month":"September",
+        "weekend":true
+    },
+    {
+        "date":1631404800000,
+        "bones_nobones":"No video",
+        "weekday":"Sunday",
+        "month":"September",
+        "weekend":true
+    },
+    {
+        "date":1631491200000,
+        "bones_nobones":"No video",
+        "weekday":"Monday",
+        "month":"September",
+        "weekend":false
+    },
+    {
+        "date":1631664000000,
+        "bones_nobones":"No video",
+        "weekday":"Wednesday",
+        "month":"September",
+        "weekend":false
+    },
+    {
+        "date":1631750400000,
+        "bones_nobones":"No video",
+        "weekday":"Thursday",
+        "month":"September",
+        "weekend":false
+    },
+    {
+        "date":1631836800000,
+        "bones_nobones":"No video",
+        "weekday":"Friday",
+        "month":"September",
+        "weekend":false
+    },
+    {
+        "date":1631923200000,
+        "bones_nobones":"No video",
+        "weekday":"Saturday",
+        "month":"September",
+        "weekend":true
+    },
+    {
+        "date":1632009600000,
+        "bones_nobones":"No video",
+        "weekday":"Sunday",
+        "month":"September",
+        "weekend":true
+    },
+    {
+        "date":1632096000000,
+        "bones_nobones":"No video",
+        "weekday":"Monday",
+        "month":"September",
+        "weekend":false
+    },
+    {
+        "date":1632182400000,
+        "bones_nobones":"No video",
+        "weekday":"Tuesday",
+        "month":"September",
+        "weekend":false
+    },
+    {
+        "date":1632355200000,
+        "bones_nobones":"No video",
+        "weekday":"Thursday",
+        "month":"September",
+        "weekend":false
+    },
+    {
+        "date":1632441600000,
+        "bones_nobones":"No video",
+        "weekday":"Friday",
+        "month":"September",
+        "weekend":false
+    },
+    {
+        "date":1632528000000,
+        "bones_nobones":"No video",
+        "weekday":"Saturday",
+        "month":"September",
+        "weekend":true
+    },
+    {
+        "date":1632614400000,
+        "bones_nobones":"No video",
+        "weekday":"Sunday",
+        "month":"September",
+        "weekend":true
+    },
+    {
+        "date":1632700800000,
+        "bones_nobones":"No video",
+        "weekday":"Monday",
+        "month":"September",
+        "weekend":false
+    },
+    {
+        "date":1632787200000,
+        "bones_nobones":"No video",
+        "weekday":"Tuesday",
+        "month":"September",
+        "weekend":false
+    },
+    {
+        "date":1632960000000,
+        "bones_nobones":"No video",
+        "weekday":"Thursday",
+        "month":"September",
+        "weekend":false
+    },
+    {
+        "date":1633132800000,
+        "bones_nobones":"No video",
+        "weekday":"Saturday",
+        "month":"October",
+        "weekend":true
+    },
+    {
+        "date":1633219200000,
+        "bones_nobones":"No video",
+        "weekday":"Sunday",
+        "month":"October",
+        "weekend":true
+    },
+    {
+        "date":1633392000000,
+        "bones_nobones":"No video",
+        "weekday":"Tuesday",
+        "month":"October",
+        "weekend":false
+    },
+    {
+        "date":1633478400000,
+        "bones_nobones":"No video",
+        "weekday":"Wednesday",
+        "month":"October",
+        "weekend":false
+    },
+    {
+        "date":1633651200000,
+        "bones_nobones":"No video",
+        "weekday":"Friday",
+        "month":"October",
+        "weekend":false
+    },
+    {
+        "date":1633824000000,
+        "bones_nobones":"No video",
+        "weekday":"Sunday",
+        "month":"October",
+        "weekend":true
+    },
+    {
+        "date":1633996800000,
+        "bones_nobones":"No video",
+        "weekday":"Tuesday",
+        "month":"October",
+        "weekend":false
+    },
+    {
+        "date":1635033600000,
+        "bones_nobones":"No video",
+        "weekday":"Sunday",
+        "month":"October",
+        "weekend":true
+    },
+    {
+        "date":1635292800000,
+        "bones_nobones":"No video",
+        "weekday":"Wednesday",
+        "month":"October",
+        "weekend":false
+    },
+    {
+        "date":1635465600000,
+        "bones_nobones":"No video",
+        "weekday":"Friday",
+        "month":"October",
+        "weekend":false
+    },
+    {
+        "date":1635552000000,
+        "bones_nobones":"No video",
+        "weekday":"Saturday",
+        "month":"October",
+        "weekend":true
+    },
+    {
+        "date":1636156800000,
+        "bones_nobones":"No video",
+        "weekday":"Saturday",
+        "month":"November",
+        "weekend":true
+    },
+    {
+        "date":1636502400000,
+        "bones_nobones":"No video",
+        "weekday":"Wednesday",
+        "month":"November",
+        "weekend":false
+    },
+    {
+        "date":1636761600000,
+        "bones_nobones":"No video",
+        "weekday":"Saturday",
+        "month":"November",
+        "weekend":true
+    },
+    {
+        "date":1636848000000,
+        "bones_nobones":"No video",
+        "weekday":"Sunday",
+        "month":"November",
+        "weekend":true
+    },
+    {
+        "date":1637107200000,
+        "bones_nobones":"No video",
+        "weekday":"Wednesday",
+        "month":"November",
+        "weekend":false
+    },
+    {
+        "date":1637366400000,
+        "bones_nobones":"No video",
+        "weekday":"Saturday",
+        "month":"November",
+        "weekend":true
+    }
+]
