@@ -6,6 +6,8 @@
         "weekday":"Friday",
         "month":"November",
         "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
         "display_date":"Nov. 19 "
     },
     {
@@ -15,6 +17,8 @@
         "weekday":"Thursday",
         "month":"November",
         "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
         "display_date":"Nov. 18 "
     },
     {
@@ -24,6 +28,8 @@
         "weekday":"Tuesday",
         "month":"November",
         "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
         "display_date":"Nov. 16 "
     },
     {
@@ -33,6 +39,8 @@
         "weekday":"Monday",
         "month":"November",
         "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
         "display_date":"Nov. 15 "
     },
     {
@@ -42,6 +50,8 @@
         "weekday":"Friday",
         "month":"November",
         "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
         "display_date":"Nov. 12 "
     },
     {
@@ -51,6 +61,8 @@
         "weekday":"Thursday",
         "month":"November",
         "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
         "display_date":"Nov. 11 "
     },
     {
@@ -60,6 +72,8 @@
         "weekday":"Tuesday",
         "month":"November",
         "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
         "display_date":"Nov. 9 "
     },
     {
@@ -69,6 +83,8 @@
         "weekday":"Monday",
         "month":"November",
         "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
         "display_date":"Nov. 8 "
     },
     {
@@ -78,6 +94,8 @@
         "weekday":"Sunday",
         "month":"November",
         "weekend":true,
+        "bones_class":"no-bones",
+        "weekend_class":"true",
         "display_date":"Nov. 7 "
     },
     {
@@ -87,6 +105,8 @@
         "weekday":"Friday",
         "month":"November",
         "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
         "display_date":"Nov. 5 "
     },
     {
@@ -96,6 +116,8 @@
         "weekday":"Thursday",
         "month":"November",
         "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
         "display_date":"Nov. 4 "
     },
     {
@@ -105,6 +127,8 @@
         "weekday":"Wednesday",
         "month":"November",
         "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
         "display_date":"Nov. 3 "
     },
     {
@@ -114,6 +138,8 @@
         "weekday":"Tuesday",
         "month":"November",
         "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
         "display_date":"Nov. 2 "
     },
     {
@@ -123,6 +149,8 @@
         "weekday":"Monday",
         "month":"November",
         "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
         "display_date":"Nov. 1 "
     },
     {
@@ -132,6 +160,8 @@
         "weekday":"Sunday",
         "month":"October",
         "weekend":true,
+        "bones_class":"bones",
+        "weekend_class":"true",
         "display_date":"Oct. 31 "
     },
     {
@@ -141,6 +171,8 @@
         "weekday":"Thursday",
         "month":"October",
         "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
         "display_date":"Oct. 28 "
     },
     {
@@ -150,6 +182,8 @@
         "weekday":"Tuesday",
         "month":"October",
         "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
         "display_date":"Oct. 26 "
     },
     {
@@ -159,6 +193,8 @@
         "weekday":"Monday",
         "month":"October",
         "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
         "display_date":"Oct. 25 "
     },
     {
@@ -168,6 +204,8 @@
         "weekday":"Saturday",
         "month":"October",
         "weekend":true,
+        "bones_class":"bones",
+        "weekend_class":"true",
         "display_date":"Oct. 23 "
     },
     {
@@ -177,6 +215,8 @@
         "weekday":"Friday",
         "month":"October",
         "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
         "display_date":"Oct. 22 "
     },
     {
@@ -186,6 +226,8 @@
         "weekday":"Thursday",
         "month":"October",
         "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
         "display_date":"Oct. 21 "
     },
     {
@@ -195,6 +237,8 @@
         "weekday":"Wednesday",
         "month":"October",
         "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
         "display_date":"Oct. 20 "
     },
     {
@@ -204,6 +248,8 @@
         "weekday":"Tuesday",
         "month":"October",
         "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
         "display_date":"Oct. 19 "
     },
     {
@@ -213,6 +259,8 @@
         "weekday":"Monday",
         "month":"October",
         "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
         "display_date":"Oct. 18 "
     },
     {
@@ -222,6 +270,8 @@
         "weekday":"Sunday",
         "month":"October",
         "weekend":true,
+        "bones_class":"no-bones",
+        "weekend_class":"true",
         "display_date":"Oct. 17 "
     },
     {
@@ -231,6 +281,8 @@
         "weekday":"Saturday",
         "month":"October",
         "weekend":true,
+        "bones_class":"bones",
+        "weekend_class":"true",
         "display_date":"Oct. 16 "
     },
     {
@@ -240,6 +292,8 @@
         "weekday":"Friday",
         "month":"October",
         "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
         "display_date":"Oct. 15 "
     },
     {
@@ -249,6 +303,8 @@
         "weekday":"Thursday",
         "month":"October",
         "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
         "display_date":"Oct. 14 "
     },
     {
@@ -258,6 +314,8 @@
         "weekday":"Wednesday",
         "month":"October",
         "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
         "display_date":"Oct. 13 "
     },
     {
@@ -267,6 +325,8 @@
         "weekday":"Monday",
         "month":"October",
         "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
         "display_date":"Oct. 11 "
     },
     {
@@ -276,6 +336,8 @@
         "weekday":"Saturday",
         "month":"October",
         "weekend":true,
+        "bones_class":"no-bones",
+        "weekend_class":"true",
         "display_date":"Oct. 9 "
     },
     {
@@ -285,6 +347,8 @@
         "weekday":"Thursday",
         "month":"October",
         "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
         "display_date":"Oct. 7 "
     },
     {
@@ -294,6 +358,8 @@
         "weekday":"Monday",
         "month":"October",
         "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
         "display_date":"Oct. 4 "
     },
     {
@@ -303,6 +369,8 @@
         "weekday":"Friday",
         "month":"October",
         "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
         "display_date":"Oct. 1 "
     },
     {
@@ -312,6 +380,8 @@
         "weekday":"Wednesday",
         "month":"September",
         "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
         "display_date":"Sep. 29 "
     },
     {
@@ -321,6 +391,8 @@
         "weekday":"Wednesday",
         "month":"September",
         "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
         "display_date":"Sep. 22 "
     },
     {
@@ -330,6 +402,8 @@
         "weekday":"Tuesday",
         "month":"September",
         "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
         "display_date":"Sep. 14 "
     },
     {
@@ -339,6 +413,8 @@
         "weekday":"Sunday",
         "month":"September",
         "weekend":true,
+        "bones_class":"no-bones",
+        "weekend_class":"true",
         "display_date":"Sep. 5 "
     },
     {
@@ -348,6 +424,8 @@
         "weekday":"Saturday",
         "month":"August",
         "weekend":true,
+        "bones_class":"no-bones",
+        "weekend_class":"true",
         "display_date":"Aug. 21 "
     },
     {
@@ -357,6 +435,8 @@
         "weekday":"Friday",
         "month":"August",
         "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
         "display_date":"Aug. 13 "
     },
     {
@@ -366,6 +446,8 @@
         "weekday":"Thursday",
         "month":"March",
         "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
         "display_date":"Mar. 11 "
     }
 ]

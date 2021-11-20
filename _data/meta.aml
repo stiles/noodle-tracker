@@ -24,3 +24,6 @@ social_description: This is not a social description
 social_image: assets/images/baker.jpg
 
 
+[methodology]
+copy: View the <a href="https://docs.google.com/spreadsheets/d/1YBfXgpmIJplAJjcMmSv7i6lPzyCOfb1QVB4XpCOfBGs/edit?usp=sharing">data</a> and <a href="https://github.com/stiles/noodle-tracker/blob/main/_workspace/00-process-noodle-data.ipynb">code</a> for this project. 
+[]

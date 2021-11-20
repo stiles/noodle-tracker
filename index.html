@@ -12,7 +12,7 @@
 <article>
   <header class="container">
     <h1 class="headline">{{ meta.headline }}</h1>
-    <h2 class="subhead">{{ meta.subhead }}</h2>
+    <!-- <h2 class="subhead">{{ meta.subhead }}</h2> -->
     <!-- <div class="attribution">
         {% set comma = joiner() %}
         <p class="byline">
@@ -23,10 +23,13 @@
     </div> -->
   </header>
   <div class="container">
+    <iframe title="What kind of day for Noodle?" aria-label="Stacked Bars" id="datawrapper-chart-u6bWk" src="https://datawrapper.dwcdn.net/u6bWk/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="238"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+    </script>
     {% for p in copy.body %}
         <!-- <p class="prose">{{ p.value }}</p> -->
     {% endfor %}
     <table class="table">
+      <p class='charthead'>All the bones days</p>
         <thead>
             <tr>
                 <th>Date</th>
@@ -38,12 +41,18 @@
         {% for obj in bonesdays %}
             <tr>
                 <td>{{ obj.display_date }}</td>
-                <td><a href="{{ obj.url }}">{{ obj.bones_nobones }}</a></td>
+                <td class='{{ obj.bones_class }}'><a href="{{ obj.url }}">{{ obj.bones_nobones }}</a></td>
                 <td>{{ obj.weekday }}</td>
             </tr>
         {% endfor %}
         </tbody>
     </table>
+  </div>
+  <div class='container'>
+    <p class='charthead'>About</p>
+    {% for p in meta.methodology %}
+        <p class="prose">{{ p.copy }}</p>
+    {% endfor %}
   </div>
 </article>
 
