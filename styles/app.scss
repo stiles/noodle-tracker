@@ -41,9 +41,18 @@ p {
     }
     &.prose {
         margin: 18px 0;
-        font-size: 18px;
+        font-size: 16px;
+        line-height: 24px;
         color: #555;
     }
+}
+
+a {
+    color: #000;
+}
+
+a:hover {
+    color: rgb(34, 31, 31);
 }
 
 .bones {
@@ -59,6 +68,14 @@ p {
 .no-bones {
     color: #000;
     background-color: #d8b365;
+}
+
+.bones-copy {
+    border-bottom: 3px solid rgb(90, 180, 172);
+}
+
+.no-bones-copy {
+    border-bottom: 3px solid #d8b365;
 }
 
 .no-bones a {
@@ -95,6 +112,16 @@ p {
 }
 
 .charthead {
+    font-family: Roboto,sans-serif;
+    margin: 0;
+    text-decoration: none;
+    color: #000;
+    font-size: 22px;
+    font-weight: 700;
+    margin-top: 60px;
+}
+
+.bignumbers {
     font-family: Roboto,sans-serif;
     margin: 0;
     text-decoration: none;
