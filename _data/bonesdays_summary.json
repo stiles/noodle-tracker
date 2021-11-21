@@ -1,12 +1,12 @@
 [
     {
         "Category":"All days",
-        "Bones":20,
+        "Bones":21,
         "No Bones":21
     },
     {
         "Category":"Weekends",
-        "Bones":3,
+        "Bones":4,
         "No Bones":5
     },
     {
