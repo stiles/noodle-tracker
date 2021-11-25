@@ -4,7 +4,7 @@ const entrypoints = [
 ];
 
 export default {
-  domain: '',
+  domain: 'https://s3.us-west-1.amazonaws.com/',
   entrypoints: `scripts/${
     entrypoints.length > 1 ? `{${entrypoints.join(',')}}` : entrypoints[0]
   }.js`,
