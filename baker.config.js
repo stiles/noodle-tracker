@@ -4,7 +4,7 @@ const entrypoints = [
 ];
 
 export default {
-  domain: 'http://noodletracker.com',
+  domain: '',
   entrypoints: `scripts/${
     entrypoints.length > 1 ? `{${entrypoints.join(',')}}` : entrypoints[0]
   }.js`,
