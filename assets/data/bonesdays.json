@@ -1,590 +1,552 @@
 [
     {
-        "date":1637280000000,
-        "bones_nobones":"No bones",
-        "weekday":"Friday",
-        "month":"November",
-        "weekend":false
-    },
-    {
-        "date":1637193600000,
+        "date":"2001-12-02",
         "bones_nobones":"Bones!",
-        "weekday":"Thursday",
-        "month":"November",
-        "weekend":false
-    },
-    {
-        "date":1637020800000,
-        "bones_nobones":"Bones!",
-        "weekday":"Tuesday",
-        "month":"November",
-        "weekend":false
-    },
-    {
-        "date":1636934400000,
-        "bones_nobones":"Bones!",
-        "weekday":"Monday",
-        "month":"November",
-        "weekend":false
-    },
-    {
-        "date":1636675200000,
-        "bones_nobones":"No bones",
-        "weekday":"Friday",
-        "month":"November",
-        "weekend":false
-    },
-    {
-        "date":1636588800000,
-        "bones_nobones":"No bones",
-        "weekday":"Thursday",
-        "month":"November",
-        "weekend":false
-    },
-    {
-        "date":1636416000000,
-        "bones_nobones":"Bones!",
-        "weekday":"Tuesday",
-        "month":"November",
-        "weekend":false
-    },
-    {
-        "date":1636329600000,
-        "bones_nobones":"Bones!",
-        "weekday":"Monday",
-        "month":"November",
-        "weekend":false
-    },
-    {
-        "date":1636243200000,
-        "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7037119231531470086",
         "weekday":"Sunday",
-        "month":"November",
-        "weekend":true
+        "month":"December",
+        "weekend":true,
+        "bones_class":"bones",
+        "weekend_class":"true",
+        "display_date":"Dec. 2 "
     },
     {
-        "date":1636070400000,
-        "bones_nobones":"Bones!",
-        "weekday":"Friday",
+        "date":"2021-11-30",
+        "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7036373611187277061",
+        "weekday":"Tuesday",
         "month":"November",
-        "weekend":false
+        "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
+        "display_date":"Nov. 30 "
     },
     {
-        "date":1635984000000,
+        "date":"2021-11-29",
+        "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7036002855471418629",
+        "weekday":"Monday",
+        "month":"November",
+        "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
+        "display_date":"Nov. 29 "
+    },
+    {
+        "date":"2021-11-27",
+        "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7035264187450412293",
+        "weekday":"Saturday",
+        "month":"November",
+        "weekend":true,
+        "bones_class":"no-bones",
+        "weekend_class":"true",
+        "display_date":"Nov. 27 "
+    },
+    {
+        "date":"2021-11-25",
         "bones_nobones":"Bones!",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7034536859455819013",
         "weekday":"Thursday",
         "month":"November",
-        "weekend":false
+        "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
+        "display_date":"Nov. 25 "
     },
     {
-        "date":1635897600000,
+        "date":"2021-11-24",
         "bones_nobones":"Bones!",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7034153718278933765",
         "weekday":"Wednesday",
         "month":"November",
-        "weekend":false
+        "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
+        "display_date":"Nov. 24 "
     },
     {
-        "date":1635811200000,
+        "date":"2021-11-23",
         "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7033774353791601926",
         "weekday":"Tuesday",
         "month":"November",
-        "weekend":false
+        "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
+        "display_date":"Nov. 23 "
     },
     {
-        "date":1635724800000,
-        "bones_nobones":"No bones",
+        "date":"2021-11-22",
+        "bones_nobones":"Bones!",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7033413331775950085",
         "weekday":"Monday",
         "month":"November",
-        "weekend":false
+        "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
+        "display_date":"Nov. 22 "
     },
     {
-        "date":1635638400000,
+        "date":"2021-11-21",
         "bones_nobones":"Bones!",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7033034538523610373",
+        "weekday":"Sunday",
+        "month":"November",
+        "weekend":true,
+        "bones_class":"bones",
+        "weekend_class":"true",
+        "display_date":"Nov. 21 "
+    },
+    {
+        "date":"2021-11-19",
+        "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7032301423278738694",
+        "weekday":"Friday",
+        "month":"November",
+        "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
+        "display_date":"Nov. 19 "
+    },
+    {
+        "date":"2021-11-18",
+        "bones_nobones":"Bones!",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7031918628782017798",
+        "weekday":"Thursday",
+        "month":"November",
+        "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
+        "display_date":"Nov. 18 "
+    },
+    {
+        "date":"2021-11-16",
+        "bones_nobones":"Bones!",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7031187804289912069",
+        "weekday":"Tuesday",
+        "month":"November",
+        "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
+        "display_date":"Nov. 16 "
+    },
+    {
+        "date":"2021-11-15",
+        "bones_nobones":"Bones!",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7030808551417236741",
+        "weekday":"Monday",
+        "month":"November",
+        "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
+        "display_date":"Nov. 15 "
+    },
+    {
+        "date":"2021-11-12",
+        "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7029702975224417541",
+        "weekday":"Friday",
+        "month":"November",
+        "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
+        "display_date":"Nov. 12 "
+    },
+    {
+        "date":"2021-11-11",
+        "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7029337289553693958",
+        "weekday":"Thursday",
+        "month":"November",
+        "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
+        "display_date":"Nov. 11 "
+    },
+    {
+        "date":"2021-11-09",
+        "bones_nobones":"Bones!",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7028597285869128966",
+        "weekday":"Tuesday",
+        "month":"November",
+        "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
+        "display_date":"Nov. 9 "
+    },
+    {
+        "date":"2021-11-08",
+        "bones_nobones":"Bones!",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7028212495621934342",
+        "weekday":"Monday",
+        "month":"November",
+        "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
+        "display_date":"Nov. 8 "
+    },
+    {
+        "date":"2021-11-07",
+        "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7027831943009930502",
+        "weekday":"Sunday",
+        "month":"November",
+        "weekend":true,
+        "bones_class":"no-bones",
+        "weekend_class":"true",
+        "display_date":"Nov. 7 "
+    },
+    {
+        "date":"2021-11-05",
+        "bones_nobones":"Bones!",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7027092093080325382",
+        "weekday":"Friday",
+        "month":"November",
+        "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
+        "display_date":"Nov. 5 "
+    },
+    {
+        "date":"2021-11-04",
+        "bones_nobones":"Bones!",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7026722598096538886",
+        "weekday":"Thursday",
+        "month":"November",
+        "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
+        "display_date":"Nov. 4 "
+    },
+    {
+        "date":"2021-11-03",
+        "bones_nobones":"Bones!",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7026343071839276294",
+        "weekday":"Wednesday",
+        "month":"November",
+        "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
+        "display_date":"Nov. 3 "
+    },
+    {
+        "date":"2021-11-02",
+        "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7025988024450223366",
+        "weekday":"Tuesday",
+        "month":"November",
+        "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
+        "display_date":"Nov. 2 "
+    },
+    {
+        "date":"2021-11-01",
+        "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7025602864663907590",
+        "weekday":"Monday",
+        "month":"November",
+        "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
+        "display_date":"Nov. 1 "
+    },
+    {
+        "date":"2021-10-31",
+        "bones_nobones":"Bones!",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7025224724321946885",
         "weekday":"Sunday",
         "month":"October",
-        "weekend":true
+        "weekend":true,
+        "bones_class":"bones",
+        "weekend_class":"true",
+        "display_date":"Oct. 31 "
     },
     {
-        "date":1635379200000,
+        "date":"2021-10-28",
         "bones_nobones":"Bones!",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7024110833995205893",
         "weekday":"Thursday",
         "month":"October",
-        "weekend":false
+        "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
+        "display_date":"Oct. 28 "
     },
     {
-        "date":1635206400000,
+        "date":"2021-10-26",
         "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7023371588124921093",
         "weekday":"Tuesday",
         "month":"October",
-        "weekend":false
+        "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
+        "display_date":"Oct. 26 "
     },
     {
-        "date":1635120000000,
+        "date":"2021-10-25",
         "bones_nobones":"Bones!",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7023004798215539973",
         "weekday":"Monday",
         "month":"October",
-        "weekend":false
+        "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
+        "display_date":"Oct. 25 "
     },
     {
-        "date":1634947200000,
+        "date":"2021-10-23",
         "bones_nobones":"Bones!",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7022251358833118469",
         "weekday":"Saturday",
         "month":"October",
-        "weekend":true
+        "weekend":true,
+        "bones_class":"bones",
+        "weekend_class":"true",
+        "display_date":"Oct. 23 "
     },
     {
-        "date":1634860800000,
+        "date":"2021-10-22",
         "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7021895192559111430",
         "weekday":"Friday",
         "month":"October",
-        "weekend":false
+        "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
+        "display_date":"Oct. 22 "
     },
     {
-        "date":1634774400000,
+        "date":"2021-10-21",
         "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7021511892824820997",
         "weekday":"Thursday",
         "month":"October",
-        "weekend":false
+        "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
+        "display_date":"Oct. 21 "
     },
     {
-        "date":1634688000000,
+        "date":"2021-10-20",
         "bones_nobones":"Bones!",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7021172359386172678",
         "weekday":"Wednesday",
         "month":"October",
-        "weekend":false
+        "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
+        "display_date":"Oct. 20 "
     },
     {
-        "date":1634601600000,
+        "date":"2021-10-19",
         "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7020772470017887494",
         "weekday":"Tuesday",
         "month":"October",
-        "weekend":false
+        "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
+        "display_date":"Oct. 19 "
     },
     {
-        "date":1634515200000,
+        "date":"2021-10-18",
         "bones_nobones":"Bones!",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7020411242749758725",
         "weekday":"Monday",
         "month":"October",
-        "weekend":false
+        "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
+        "display_date":"Oct. 18 "
     },
     {
-        "date":1634428800000,
+        "date":"2021-10-17",
         "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7020027193216503046",
         "weekday":"Sunday",
         "month":"October",
-        "weekend":true
+        "weekend":true,
+        "bones_class":"no-bones",
+        "weekend_class":"true",
+        "display_date":"Oct. 17 "
     },
     {
-        "date":1634342400000,
+        "date":"2021-10-16",
         "bones_nobones":"Bones!",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7019702064829697285",
         "weekday":"Saturday",
         "month":"October",
-        "weekend":true
+        "weekend":true,
+        "bones_class":"bones",
+        "weekend_class":"true",
+        "display_date":"Oct. 16 "
     },
     {
-        "date":1634256000000,
+        "date":"2021-10-15",
         "bones_nobones":"Bones!",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7019298458678856965",
         "weekday":"Friday",
         "month":"October",
-        "weekend":false
+        "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
+        "display_date":"Oct. 15 "
     },
     {
-        "date":1634169600000,
+        "date":"2021-10-14",
         "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7018925390118784262",
         "weekday":"Thursday",
         "month":"October",
-        "weekend":false
+        "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
+        "display_date":"Oct. 14 "
     },
     {
-        "date":1634083200000,
+        "date":"2021-10-13",
         "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7018544878183320837",
         "weekday":"Wednesday",
         "month":"October",
-        "weekend":false
+        "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
+        "display_date":"Oct. 13 "
     },
     {
-        "date":1633910400000,
+        "date":"2021-10-11",
         "bones_nobones":"Bones!",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7017803606308965637",
         "weekday":"Monday",
         "month":"October",
-        "weekend":false
+        "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
+        "display_date":"Oct. 11 "
     },
     {
-        "date":1633737600000,
+        "date":"2021-10-09",
         "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7017075369505213702",
         "weekday":"Saturday",
         "month":"October",
-        "weekend":true
+        "weekend":true,
+        "bones_class":"no-bones",
+        "weekend_class":"true",
+        "display_date":"Oct. 9 "
     },
     {
-        "date":1633564800000,
+        "date":"2021-10-07",
         "bones_nobones":"Bones!",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7016326380820401414",
         "weekday":"Thursday",
         "month":"October",
-        "weekend":false
+        "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
+        "display_date":"Oct. 7 "
     },
     {
-        "date":1633305600000,
+        "date":"2021-10-04",
         "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7015223171011857670",
         "weekday":"Monday",
         "month":"October",
-        "weekend":false
+        "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
+        "display_date":"Oct. 4 "
     },
     {
-        "date":1633046400000,
+        "date":"2021-10-01",
         "bones_nobones":"Bones!",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7014096448493079814",
         "weekday":"Friday",
         "month":"October",
-        "weekend":false
+        "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
+        "display_date":"Oct. 1 "
     },
     {
-        "date":1632873600000,
+        "date":"2021-09-29",
         "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7013363016121044229",
         "weekday":"Wednesday",
         "month":"September",
-        "weekend":false
+        "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
+        "display_date":"Sep. 29 "
     },
     {
-        "date":1632268800000,
+        "date":"2021-09-22",
         "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7010754857476885766",
         "weekday":"Wednesday",
         "month":"September",
-        "weekend":false
+        "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
+        "display_date":"Sep. 22 "
     },
     {
-        "date":1631577600000,
+        "date":"2021-09-14",
         "bones_nobones":"Bones!",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7007786296059940101",
         "weekday":"Tuesday",
         "month":"September",
-        "weekend":false
+        "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
+        "display_date":"Sep. 14 "
     },
     {
-        "date":1630800000000,
+        "date":"2021-09-05",
         "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7004453353946189062",
         "weekday":"Sunday",
         "month":"September",
-        "weekend":true
+        "weekend":true,
+        "bones_class":"no-bones",
+        "weekend_class":"true",
+        "display_date":"Sep. 5 "
     },
     {
-        "date":1629504000000,
+        "date":"2021-08-21",
         "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/6998871742793993478",
         "weekday":"Saturday",
         "month":"August",
-        "weekend":true
+        "weekend":true,
+        "bones_class":"no-bones",
+        "weekend_class":"true",
+        "display_date":"Aug. 21 "
     },
     {
-        "date":1628812800000,
+        "date":"2021-08-13",
         "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/6995925135182056709",
         "weekday":"Friday",
         "month":"August",
-        "weekend":false
+        "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
+        "display_date":"Aug. 13 "
     },
     {
-        "date":1615420800000,
+        "date":"2021-03-11",
         "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/6938547829673626885",
         "weekday":"Thursday",
         "month":"March",
-        "weekend":false
-    },
-    {
-        "date":1630454400000,
-        "bones_nobones":"No video",
-        "weekday":"Wednesday",
-        "month":"September",
-        "weekend":false
-    },
-    {
-        "date":1630540800000,
-        "bones_nobones":"No video",
-        "weekday":"Thursday",
-        "month":"September",
-        "weekend":false
-    },
-    {
-        "date":1630627200000,
-        "bones_nobones":"No video",
-        "weekday":"Friday",
-        "month":"September",
-        "weekend":false
-    },
-    {
-        "date":1630713600000,
-        "bones_nobones":"No video",
-        "weekday":"Saturday",
-        "month":"September",
-        "weekend":true
-    },
-    {
-        "date":1630886400000,
-        "bones_nobones":"No video",
-        "weekday":"Monday",
-        "month":"September",
-        "weekend":false
-    },
-    {
-        "date":1630972800000,
-        "bones_nobones":"No video",
-        "weekday":"Tuesday",
-        "month":"September",
-        "weekend":false
-    },
-    {
-        "date":1631059200000,
-        "bones_nobones":"No video",
-        "weekday":"Wednesday",
-        "month":"September",
-        "weekend":false
-    },
-    {
-        "date":1631145600000,
-        "bones_nobones":"No video",
-        "weekday":"Thursday",
-        "month":"September",
-        "weekend":false
-    },
-    {
-        "date":1631232000000,
-        "bones_nobones":"No video",
-        "weekday":"Friday",
-        "month":"September",
-        "weekend":false
-    },
-    {
-        "date":1631318400000,
-        "bones_nobones":"No video",
-        "weekday":"Saturday",
-        "month":"September",
-        "weekend":true
-    },
-    {
-        "date":1631404800000,
-        "bones_nobones":"No video",
-        "weekday":"Sunday",
-        "month":"September",
-        "weekend":true
-    },
-    {
-        "date":1631491200000,
-        "bones_nobones":"No video",
-        "weekday":"Monday",
-        "month":"September",
-        "weekend":false
-    },
-    {
-        "date":1631664000000,
-        "bones_nobones":"No video",
-        "weekday":"Wednesday",
-        "month":"September",
-        "weekend":false
-    },
-    {
-        "date":1631750400000,
-        "bones_nobones":"No video",
-        "weekday":"Thursday",
-        "month":"September",
-        "weekend":false
-    },
-    {
-        "date":1631836800000,
-        "bones_nobones":"No video",
-        "weekday":"Friday",
-        "month":"September",
-        "weekend":false
-    },
-    {
-        "date":1631923200000,
-        "bones_nobones":"No video",
-        "weekday":"Saturday",
-        "month":"September",
-        "weekend":true
-    },
-    {
-        "date":1632009600000,
-        "bones_nobones":"No video",
-        "weekday":"Sunday",
-        "month":"September",
-        "weekend":true
-    },
-    {
-        "date":1632096000000,
-        "bones_nobones":"No video",
-        "weekday":"Monday",
-        "month":"September",
-        "weekend":false
-    },
-    {
-        "date":1632182400000,
-        "bones_nobones":"No video",
-        "weekday":"Tuesday",
-        "month":"September",
-        "weekend":false
-    },
-    {
-        "date":1632355200000,
-        "bones_nobones":"No video",
-        "weekday":"Thursday",
-        "month":"September",
-        "weekend":false
-    },
-    {
-        "date":1632441600000,
-        "bones_nobones":"No video",
-        "weekday":"Friday",
-        "month":"September",
-        "weekend":false
-    },
-    {
-        "date":1632528000000,
-        "bones_nobones":"No video",
-        "weekday":"Saturday",
-        "month":"September",
-        "weekend":true
-    },
-    {
-        "date":1632614400000,
-        "bones_nobones":"No video",
-        "weekday":"Sunday",
-        "month":"September",
-        "weekend":true
-    },
-    {
-        "date":1632700800000,
-        "bones_nobones":"No video",
-        "weekday":"Monday",
-        "month":"September",
-        "weekend":false
-    },
-    {
-        "date":1632787200000,
-        "bones_nobones":"No video",
-        "weekday":"Tuesday",
-        "month":"September",
-        "weekend":false
-    },
-    {
-        "date":1632960000000,
-        "bones_nobones":"No video",
-        "weekday":"Thursday",
-        "month":"September",
-        "weekend":false
-    },
-    {
-        "date":1633132800000,
-        "bones_nobones":"No video",
-        "weekday":"Saturday",
-        "month":"October",
-        "weekend":true
-    },
-    {
-        "date":1633219200000,
-        "bones_nobones":"No video",
-        "weekday":"Sunday",
-        "month":"October",
-        "weekend":true
-    },
-    {
-        "date":1633392000000,
-        "bones_nobones":"No video",
-        "weekday":"Tuesday",
-        "month":"October",
-        "weekend":false
-    },
-    {
-        "date":1633478400000,
-        "bones_nobones":"No video",
-        "weekday":"Wednesday",
-        "month":"October",
-        "weekend":false
-    },
-    {
-        "date":1633651200000,
-        "bones_nobones":"No video",
-        "weekday":"Friday",
-        "month":"October",
-        "weekend":false
-    },
-    {
-        "date":1633824000000,
-        "bones_nobones":"No video",
-        "weekday":"Sunday",
-        "month":"October",
-        "weekend":true
-    },
-    {
-        "date":1633996800000,
-        "bones_nobones":"No video",
-        "weekday":"Tuesday",
-        "month":"October",
-        "weekend":false
-    },
-    {
-        "date":1635033600000,
-        "bones_nobones":"No video",
-        "weekday":"Sunday",
-        "month":"October",
-        "weekend":true
-    },
-    {
-        "date":1635292800000,
-        "bones_nobones":"No video",
-        "weekday":"Wednesday",
-        "month":"October",
-        "weekend":false
-    },
-    {
-        "date":1635465600000,
-        "bones_nobones":"No video",
-        "weekday":"Friday",
-        "month":"October",
-        "weekend":false
-    },
-    {
-        "date":1635552000000,
-        "bones_nobones":"No video",
-        "weekday":"Saturday",
-        "month":"October",
-        "weekend":true
-    },
-    {
-        "date":1636156800000,
-        "bones_nobones":"No video",
-        "weekday":"Saturday",
-        "month":"November",
-        "weekend":true
-    },
-    {
-        "date":1636502400000,
-        "bones_nobones":"No video",
-        "weekday":"Wednesday",
-        "month":"November",
-        "weekend":false
-    },
-    {
-        "date":1636761600000,
-        "bones_nobones":"No video",
-        "weekday":"Saturday",
-        "month":"November",
-        "weekend":true
-    },
-    {
-        "date":1636848000000,
-        "bones_nobones":"No video",
-        "weekday":"Sunday",
-        "month":"November",
-        "weekend":true
-    },
-    {
-        "date":1637107200000,
-        "bones_nobones":"No video",
-        "weekday":"Wednesday",
-        "month":"November",
-        "weekend":false
-    },
-    {
-        "date":1637366400000,
-        "bones_nobones":"No video",
-        "weekday":"Saturday",
-        "month":"November",
-        "weekend":true
+        "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
+        "display_date":"Mar. 11 "
     }
 ]

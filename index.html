@@ -33,6 +33,8 @@
   <div class="container">
     <iframe title="What kind of day for Noodle?" aria-label="Stacked Bars" id="datawrapper-chart-u6bWk" src="https://datawrapper.dwcdn.net/u6bWk/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="238"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
     </script>
+
+    <div id="bones-stacked-bar"></div>
     
     <table class="table">
       <p class='charthead'>All the bones days</p>
@@ -62,7 +64,10 @@
   </div>
 </article>
 
-{{ toplines|jsonScript('toplines') }}
-{{ bonesdays|jsonScript('bonesdays') }}
+<script>
+  window.BONESDAYS = "{% static 'assets/data/bonesdays.json' %}";
+  window.BONESDAYS_SUMMARY = "{% static 'assets/data/bonesdays_summary.json' %}";
+  window.TOPLINES = "{% static 'assets/data/toplines.json' %}";
+</script>
 
 {% endblock content %}
