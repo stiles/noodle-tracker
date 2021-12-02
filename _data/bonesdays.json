@@ -1,13 +1,15 @@
 [
     {
-        "date":"2001-12-02",
+        "date":"2021-12-02",
         "bones_nobones":"Bones!",
         "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7037119231531470086",
-        "weekday":"Sunday",
+        "weekday":"Thursday",
         "month":"December",
-        "weekend":true,
+        "weekend":false,
         "bones_class":"bones",
-        "weekend_class":"true",
+        "weekend_class":"false",
+        "week":48,
+        "weekstart":1638144000000,
         "display_date":"Dec. 2 "
     },
     {
@@ -19,6 +21,8 @@
         "weekend":false,
         "bones_class":"no-bones",
         "weekend_class":"false",
+        "week":48,
+        "weekstart":1638144000000,
         "display_date":"Nov. 30 "
     },
     {
@@ -30,6 +34,8 @@
         "weekend":false,
         "bones_class":"no-bones",
         "weekend_class":"false",
+        "week":48,
+        "weekstart":1638144000000,
         "display_date":"Nov. 29 "
     },
     {
@@ -41,6 +47,8 @@
         "weekend":true,
         "bones_class":"no-bones",
         "weekend_class":"true",
+        "week":47,
+        "weekstart":1637539200000,
         "display_date":"Nov. 27 "
     },
     {
@@ -52,6 +60,8 @@
         "weekend":false,
         "bones_class":"bones",
         "weekend_class":"false",
+        "week":47,
+        "weekstart":1637539200000,
         "display_date":"Nov. 25 "
     },
     {
@@ -63,6 +73,8 @@
         "weekend":false,
         "bones_class":"bones",
         "weekend_class":"false",
+        "week":47,
+        "weekstart":1637539200000,
         "display_date":"Nov. 24 "
     },
     {
@@ -74,6 +86,8 @@
         "weekend":false,
         "bones_class":"no-bones",
         "weekend_class":"false",
+        "week":47,
+        "weekstart":1637539200000,
         "display_date":"Nov. 23 "
     },
     {
@@ -85,6 +99,8 @@
         "weekend":false,
         "bones_class":"bones",
         "weekend_class":"false",
+        "week":47,
+        "weekstart":1637539200000,
         "display_date":"Nov. 22 "
     },
     {
@@ -96,6 +112,8 @@
         "weekend":true,
         "bones_class":"bones",
         "weekend_class":"true",
+        "week":46,
+        "weekstart":1636934400000,
         "display_date":"Nov. 21 "
     },
     {
@@ -107,6 +125,8 @@
         "weekend":false,
         "bones_class":"no-bones",
         "weekend_class":"false",
+        "week":46,
+        "weekstart":1636934400000,
         "display_date":"Nov. 19 "
     },
     {
@@ -118,6 +138,8 @@
         "weekend":false,
         "bones_class":"bones",
         "weekend_class":"false",
+        "week":46,
+        "weekstart":1636934400000,
         "display_date":"Nov. 18 "
     },
     {
@@ -129,6 +151,8 @@
         "weekend":false,
         "bones_class":"bones",
         "weekend_class":"false",
+        "week":46,
+        "weekstart":1636934400000,
         "display_date":"Nov. 16 "
     },
     {
@@ -140,6 +164,8 @@
         "weekend":false,
         "bones_class":"bones",
         "weekend_class":"false",
+        "week":46,
+        "weekstart":1636934400000,
         "display_date":"Nov. 15 "
     },
     {
@@ -151,6 +177,8 @@
         "weekend":false,
         "bones_class":"no-bones",
         "weekend_class":"false",
+        "week":45,
+        "weekstart":1636329600000,
         "display_date":"Nov. 12 "
     },
     {
@@ -162,6 +190,8 @@
         "weekend":false,
         "bones_class":"no-bones",
         "weekend_class":"false",
+        "week":45,
+        "weekstart":1636329600000,
         "display_date":"Nov. 11 "
     },
     {
@@ -173,6 +203,8 @@
         "weekend":false,
         "bones_class":"bones",
         "weekend_class":"false",
+        "week":45,
+        "weekstart":1636329600000,
         "display_date":"Nov. 9 "
     },
     {
@@ -184,6 +216,8 @@
         "weekend":false,
         "bones_class":"bones",
         "weekend_class":"false",
+        "week":45,
+        "weekstart":1636329600000,
         "display_date":"Nov. 8 "
     },
     {
@@ -195,6 +229,8 @@
         "weekend":true,
         "bones_class":"no-bones",
         "weekend_class":"true",
+        "week":44,
+        "weekstart":1635724800000,
         "display_date":"Nov. 7 "
     },
     {
@@ -206,6 +242,8 @@
         "weekend":false,
         "bones_class":"bones",
         "weekend_class":"false",
+        "week":44,
+        "weekstart":1635724800000,
         "display_date":"Nov. 5 "
     },
     {
@@ -217,6 +255,8 @@
         "weekend":false,
         "bones_class":"bones",
         "weekend_class":"false",
+        "week":44,
+        "weekstart":1635724800000,
         "display_date":"Nov. 4 "
     },
     {
@@ -228,6 +268,8 @@
         "weekend":false,
         "bones_class":"bones",
         "weekend_class":"false",
+        "week":44,
+        "weekstart":1635724800000,
         "display_date":"Nov. 3 "
     },
     {
@@ -239,6 +281,8 @@
         "weekend":false,
         "bones_class":"no-bones",
         "weekend_class":"false",
+        "week":44,
+        "weekstart":1635724800000,
         "display_date":"Nov. 2 "
     },
     {
@@ -250,6 +294,8 @@
         "weekend":false,
         "bones_class":"no-bones",
         "weekend_class":"false",
+        "week":44,
+        "weekstart":1635724800000,
         "display_date":"Nov. 1 "
     },
     {
@@ -261,6 +307,8 @@
         "weekend":true,
         "bones_class":"bones",
         "weekend_class":"true",
+        "week":43,
+        "weekstart":1635120000000,
         "display_date":"Oct. 31 "
     },
     {
@@ -272,6 +320,8 @@
         "weekend":false,
         "bones_class":"bones",
         "weekend_class":"false",
+        "week":43,
+        "weekstart":1635120000000,
         "display_date":"Oct. 28 "
     },
     {
@@ -283,6 +333,8 @@
         "weekend":false,
         "bones_class":"no-bones",
         "weekend_class":"false",
+        "week":43,
+        "weekstart":1635120000000,
         "display_date":"Oct. 26 "
     },
     {
@@ -294,6 +346,8 @@
         "weekend":false,
         "bones_class":"bones",
         "weekend_class":"false",
+        "week":43,
+        "weekstart":1635120000000,
         "display_date":"Oct. 25 "
     },
     {
@@ -305,6 +359,8 @@
         "weekend":true,
         "bones_class":"bones",
         "weekend_class":"true",
+        "week":42,
+        "weekstart":1634515200000,
         "display_date":"Oct. 23 "
     },
     {
@@ -316,6 +372,8 @@
         "weekend":false,
         "bones_class":"no-bones",
         "weekend_class":"false",
+        "week":42,
+        "weekstart":1634515200000,
         "display_date":"Oct. 22 "
     },
     {
@@ -327,6 +385,8 @@
         "weekend":false,
         "bones_class":"no-bones",
         "weekend_class":"false",
+        "week":42,
+        "weekstart":1634515200000,
         "display_date":"Oct. 21 "
     },
     {
@@ -338,6 +398,8 @@
         "weekend":false,
         "bones_class":"bones",
         "weekend_class":"false",
+        "week":42,
+        "weekstart":1634515200000,
         "display_date":"Oct. 20 "
     },
     {
@@ -349,6 +411,8 @@
         "weekend":false,
         "bones_class":"no-bones",
         "weekend_class":"false",
+        "week":42,
+        "weekstart":1634515200000,
         "display_date":"Oct. 19 "
     },
     {
@@ -360,6 +424,8 @@
         "weekend":false,
         "bones_class":"bones",
         "weekend_class":"false",
+        "week":42,
+        "weekstart":1634515200000,
         "display_date":"Oct. 18 "
     },
     {
@@ -371,6 +437,8 @@
         "weekend":true,
         "bones_class":"no-bones",
         "weekend_class":"true",
+        "week":41,
+        "weekstart":1633910400000,
         "display_date":"Oct. 17 "
     },
     {
@@ -382,6 +450,8 @@
         "weekend":true,
         "bones_class":"bones",
         "weekend_class":"true",
+        "week":41,
+        "weekstart":1633910400000,
         "display_date":"Oct. 16 "
     },
     {
@@ -393,6 +463,8 @@
         "weekend":false,
         "bones_class":"bones",
         "weekend_class":"false",
+        "week":41,
+        "weekstart":1633910400000,
         "display_date":"Oct. 15 "
     },
     {
@@ -404,6 +476,8 @@
         "weekend":false,
         "bones_class":"no-bones",
         "weekend_class":"false",
+        "week":41,
+        "weekstart":1633910400000,
         "display_date":"Oct. 14 "
     },
     {
@@ -415,6 +489,8 @@
         "weekend":false,
         "bones_class":"no-bones",
         "weekend_class":"false",
+        "week":41,
+        "weekstart":1633910400000,
         "display_date":"Oct. 13 "
     },
     {
@@ -426,6 +502,8 @@
         "weekend":false,
         "bones_class":"bones",
         "weekend_class":"false",
+        "week":41,
+        "weekstart":1633910400000,
         "display_date":"Oct. 11 "
     },
     {
@@ -437,6 +515,8 @@
         "weekend":true,
         "bones_class":"no-bones",
         "weekend_class":"true",
+        "week":40,
+        "weekstart":1633305600000,
         "display_date":"Oct. 9 "
     },
     {
@@ -448,6 +528,8 @@
         "weekend":false,
         "bones_class":"bones",
         "weekend_class":"false",
+        "week":40,
+        "weekstart":1633305600000,
         "display_date":"Oct. 7 "
     },
     {
@@ -459,6 +541,8 @@
         "weekend":false,
         "bones_class":"no-bones",
         "weekend_class":"false",
+        "week":40,
+        "weekstart":1633305600000,
         "display_date":"Oct. 4 "
     },
     {
@@ -470,6 +554,8 @@
         "weekend":false,
         "bones_class":"bones",
         "weekend_class":"false",
+        "week":39,
+        "weekstart":1632700800000,
         "display_date":"Oct. 1 "
     },
     {
@@ -481,6 +567,8 @@
         "weekend":false,
         "bones_class":"no-bones",
         "weekend_class":"false",
+        "week":39,
+        "weekstart":1632700800000,
         "display_date":"Sep. 29 "
     },
     {
@@ -492,6 +580,8 @@
         "weekend":false,
         "bones_class":"no-bones",
         "weekend_class":"false",
+        "week":38,
+        "weekstart":1632096000000,
         "display_date":"Sep. 22 "
     },
     {
@@ -503,6 +593,8 @@
         "weekend":false,
         "bones_class":"bones",
         "weekend_class":"false",
+        "week":37,
+        "weekstart":1631491200000,
         "display_date":"Sep. 14 "
     },
     {
@@ -514,6 +606,8 @@
         "weekend":true,
         "bones_class":"no-bones",
         "weekend_class":"true",
+        "week":35,
+        "weekstart":1630281600000,
         "display_date":"Sep. 5 "
     },
     {
@@ -525,6 +619,8 @@
         "weekend":true,
         "bones_class":"no-bones",
         "weekend_class":"true",
+        "week":33,
+        "weekstart":1629072000000,
         "display_date":"Aug. 21 "
     },
     {
@@ -536,6 +632,8 @@
         "weekend":false,
         "bones_class":"no-bones",
         "weekend_class":"false",
+        "week":32,
+        "weekstart":1628467200000,
         "display_date":"Aug. 13 "
     },
     {
@@ -547,6 +645,8 @@
         "weekend":false,
         "bones_class":"no-bones",
         "weekend_class":"false",
+        "week":10,
+        "weekstart":1615161600000,
         "display_date":"Mar. 11 "
     }
 ]
