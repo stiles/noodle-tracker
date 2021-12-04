@@ -1,5 +1,18 @@
 [
     {
+        "date":"2021-12-04",
+        "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7037869076139543813",
+        "weekday":"Saturday",
+        "month":"December",
+        "weekend":true,
+        "bones_class":"no-bones",
+        "weekend_class":"true",
+        "week":48,
+        "weekstart":1638144000000,
+        "display_date":"Dec. 4 "
+    },
+    {
         "date":"2021-12-03",
         "bones_nobones":"Bones!",
         "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7037487216548924678",
