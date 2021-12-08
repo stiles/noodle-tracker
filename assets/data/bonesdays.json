@@ -1,5 +1,31 @@
 [
     {
+        "date":"2021-12-08",
+        "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7039331413455490350",
+        "weekday":"Wednesday",
+        "month":"December",
+        "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
+        "week":49,
+        "weekstart":1638748800000,
+        "display_date":"Dec. 8 "
+    },
+    {
+        "date":"2021-12-06",
+        "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7038604400016837893",
+        "weekday":"Monday",
+        "month":"December",
+        "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
+        "week":49,
+        "weekstart":1638748800000,
+        "display_date":"Dec. 6 "
+    },
+    {
         "date":"2021-12-04",
         "bones_nobones":"No bones",
         "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7037869076139543813",
