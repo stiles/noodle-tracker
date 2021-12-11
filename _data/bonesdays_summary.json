@@ -1,9 +1,9 @@
 [
     {
         "Category":"All days",
-        "Bones":26,
+        "Bones":28,
         "No Bones":28,
-        "bones":26,
+        "bones":28,
         "nobones":28
     },
     {
@@ -15,9 +15,9 @@
     },
     {
         "Category":"Weekdays",
-        "Bones":22,
+        "Bones":24,
         "No Bones":21,
-        "bones":22,
+        "bones":24,
         "nobones":21
     }
 ]
