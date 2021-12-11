@@ -49,10 +49,17 @@ p {
         line-height: 12px;
         margin-bottom: 9px;
     }
+    &.methodology {
+        font-size: 16px;
+        font-family: fonts.$font-family-headline;
+        line-height: 16px;
+    }
     &.prose {
         margin: 18px 0;
+        font-family: fonts.$font-family-headline;
+
         font-size: 16px;
-        line-height: 24px;
+        line-height: 26px;
         color: #555;
     }
 }
@@ -140,16 +147,6 @@ a:hover {
     text-decoration: none;
     color: #000;
     font-size: 22px;
-    font-weight: 700;
-    margin-top: 60px;
-}
-
-.methodology {
-    font-family: Roboto,sans-serif;
-    margin: 0;
-    text-decoration: none;
-    color: #000;
-    font-size: 15px;
     font-weight: 700;
     margin-top: 60px;
 }
