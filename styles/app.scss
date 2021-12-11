@@ -35,9 +35,19 @@ h2 {
 p {
     font-family: fonts.$font-family-body;
     font-weight: fonts.$font-weight-body;
+    &.updated {
+        font-size: 12px;
+        line-height: 12px;
+        font-family: fonts.$font-family-headline;
+        color: #999;
+        margin-top: 0px;
+    }
     &.byline {
         font-size: 16px;
+        font-family: fonts.$font-family-headline;
         font-weight: bold;
+        line-height: 12px;
+        margin-bottom: 9px;
     }
     &.prose {
         margin: 18px 0;
@@ -50,6 +60,9 @@ p {
 a {
     color: #000;
 }
+.byline a {
+    color: #3f8b84;
+}
 
 a:hover {
     color: rgb(34, 31, 31);
@@ -57,12 +70,12 @@ a:hover {
 
 .bones {
     color: #fff;
-    background: rgb(90, 180, 172);
+    background: #3f8b84;
 }
 
 .bones a {
     color: #fff;
-    background: rgb(90, 180, 172);
+    background: #3f8b84;
 }
 
 .no-bones {
@@ -71,7 +84,7 @@ a:hover {
 }
 
 .bones-copy {
-    border-bottom: 3px solid rgb(90, 180, 172);
+    border-bottom: 3px solid #3f8b84;
 }
 
 .no-bones-copy {

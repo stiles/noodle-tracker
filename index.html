@@ -25,13 +25,26 @@
 <article>
   <header class="container">
     <h1 class="headline">{{ meta.headline }}</h1>
+    <div class="attribution">
+      {% set comma = joiner() %}
+      <p class="byline">
+        By {%- for author in meta.byline -%}
+        {% if not loop.last %}{{ comma() }}{% elif not loop.first %} and{% endif %} <span class="author" itemscope itemtype="http://schema.org/Person"><a itemprop="url" href="{{ author.url }}">{{ author.name }}</a></span>
+        {%- endfor -%}
+      </p>
+      <p class="updated">Updated: Dec. 10</p>
+    </div>
+
     {% for obj in toplines %}
       <p class="prose">Just from <a href='https://www.tiktok.com/@jongraz/'>scrolling posts about Noodle the Pug on TikTok</a>, it's impossible to understand the historical frequency of his "bones days" and "no bones days". So, we're <a href="https://docs.google.com/spreadsheets/d/1YBfXgpmIJplAJjcMmSv7i6lPzyCOfb1QVB4XpCOfBGs/edit?usp=sharing">counting them</a>! To date, the 13-year-old pooch has had <span class='bones-copy'>{{ obj.bones }} bones days</span> — and  <span class='no-bones-copy'>{{ obj.nobones }} no bones days</span>. The odds are like a coin flip. This page will update with Noodle's posts.</p>
     {% endfor %}
+    
   </header>
+
+  
   
   <div class="container">
-    <iframe title="What kind of day for Noodle?" aria-label="Stacked Bars" id="datawrapper-chart-u6bWk" src="https://datawrapper.dwcdn.net/u6bWk/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="238"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+    <iframe title="What types of days for Noodle? " aria-label="Stacked Bars" id="datawrapper-chart-4XbQZ" src="https://datawrapper.dwcdn.net/4XbQZ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="227"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
     </script>
 
     <div id="bones-stacked-bar"></div>
