@@ -2,16 +2,16 @@
     {
         "Category":"All days",
         "Bones":28,
-        "No Bones":28,
+        "No Bones":29,
         "bones":28,
-        "nobones":28
+        "nobones":29
     },
     {
         "Category":"Weekends",
         "Bones":4,
-        "No Bones":7,
+        "No Bones":8,
         "bones":4,
-        "nobones":7
+        "nobones":8
     },
     {
         "Category":"Weekdays",
