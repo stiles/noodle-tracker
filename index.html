@@ -32,7 +32,9 @@
         {% if not loop.last %}{{ comma() }}{% elif not loop.first %} and{% endif %} <span class="author" itemscope itemtype="http://schema.org/Person"><a itemprop="url" href="{{ author.url }}">{{ author.name }}</a></span>
         {%- endfor -%}
       </p>
-      <p class="updated">Updated: Dec. 10</p>
+      {% for obj in toplines %}
+      <p class="updated">Updated: {{ obj.display_date }}</p>
+      {% endfor %}
     </div>
 
     {% for obj in toplines %}
