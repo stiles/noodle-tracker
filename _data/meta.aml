@@ -25,5 +25,5 @@ social_image: assets/images/baker.jpg
 
 
 [methodology]
-copy: This page updates when Noodle posts. Built with <a href="https://github.com/datadesk/baker-example-page-template">Baker</a>. View the <a href="https://docs.google.com/spreadsheets/d/1YBfXgpmIJplAJjcMmSv7i6lPzyCOfb1QVB4XpCOfBGs/edit?usp=sharing">data</a> and <a href="https://github.com/stiles/noodle-tracker/">code</a>. 
+copy: This page updates when Noodle posts. Built with <a href="https://github.com/datadesk/baker-example-page-template">Baker</a>. View the <a href="https://github.com/stiles/noodle-tracker/tree/main/assets/data">data</a> and <a href="https://github.com/stiles/noodle-tracker/">code</a>. 
 []
