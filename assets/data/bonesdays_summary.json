@@ -3,21 +3,18 @@
         "Category":"All days",
         "Bones":31,
         "No Bones":30,
-        "bones":31,
-        "nobones":30
+        "No Video":51
     },
     {
         "Category":"Weekends",
         "Bones":5,
         "No Bones":8,
-        "bones":5,
-        "nobones":8
+        "No Video":19
     },
     {
         "Category":"Weekdays",
         "Bones":26,
         "No Bones":22,
-        "bones":26,
-        "nobones":22
+        "No Video":32
     }
 ]
