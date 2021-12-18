@@ -38,9 +38,29 @@
     </div>
 
     {% for obj in toplines %}
-      <p class="prose">Just by <a href='https://www.tiktok.com/@jongraz/'>scrolling posts about Noodle the Pug on TikTok</a>, it's impossible to understand the historical frequency of his "bones days" and "no bones days." So, I'm <a href="https://docs.google.com/spreadsheets/d/1YBfXgpmIJplAJjcMmSv7i6lPzyCOfb1QVB4XpCOfBGs/edit?usp=sharing">counting them</a>! </p>
-        <p class="prose">To date, the adorable 13-year-old pooch has had <span class='bones-copy'>{{ obj.bones }} bones days</span> — and  <span class='no-bones-copy'>{{ obj.nobones }} no bones days</span>. The odds are like a coin flip. </p>
-    {% endfor %}
+      <p class="prose">Just by <a href='https://www.tiktok.com/@jongraz/'>scrolling posts about Noodle the Pug on TikTok</a>, it's impossible to understand the historical frequency of his "bones days" and "no bones days." So, I'm <a href="https://docs.google.com/spreadsheets/d/1YBfXgpmIJplAJjcMmSv7i6lPzyCOfb1QVB4XpCOfBGs/edit?usp=sharing">counting them</a>! Since Oct. 1, when Noodle posts took off, the adorable 13-year-old pooch has had:  </p>
+    
+    <div class="big-numbers">
+      <div id = "leftbox">
+        <span class='bones-copy'>Bones days</span>
+      <h2>{{ obj.bones }}</h2>
+      </div> 
+    
+      <div id = "middlebox">
+        <span class='no-bones-copy'>No bones</span>
+          <h2>{{ obj.nobones }}</h2>
+      </div>
+    
+      <div id = "rightbox">
+        <span class='no-video-copy'>No video</span>
+          <h2>{{ obj.novideo }}</h2>
+      </div>
+    </div>
+  
+
+{% endfor %}
+
+</div>
     
   </header>
 
@@ -54,7 +74,7 @@
     </script>
     
     <table class="table">
-      <p class='charthead'>All the bones days</p>
+      <p class='charthead'>All the days!</p>
         <thead>
             <tr>
                 <th>Date</th>
@@ -74,7 +94,7 @@
     </table>
   </div>
   <div class='container'>
-    <p class='charthead'>About</p>
+    <p class='charthead'>About this project</p>
     {% for p in meta.methodology %}
         <p class="methodology">{{ p.copy }}</p>
     {% endfor %}
