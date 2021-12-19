@@ -25,5 +25,5 @@ social_image: assets/images/share.png
 
 
 [methodology]
-copy: This page updates when Noodle posts. Built with <a href="https://github.com/datadesk/baker-example-page-template">Baker</a>. View the <a href="https://github.com/stiles/noodle-tracker/tree/main/assets/data">data</a> and <a href="https://github.com/stiles/noodle-tracker/">code</a>. 
+copy: This page updates when I see Noodle posts. Built with <a href="https://github.com/datadesk/baker-example-page-template">Baker</a> and <a href="https://github.com/davidteather/TikTok-Api">TikTok-Api</a>. View the <a href="https://github.com/stiles/noodle-tracker/tree/main/assets/data">data</a> and <a href="https://github.com/stiles/noodle-tracker/">code</a>. 
 []
