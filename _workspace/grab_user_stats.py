@@ -8,7 +8,7 @@ api = TikTokApi.get_instance(custom_verifyFp = verifyFp)
 
 count = 200
 
-username = "mattystiles"
+username = "jongraz"
 
 user_videos = api.by_username(username, count=count)
 
@@ -30,5 +30,3 @@ def simple_dict(tiktok_dict):
 user_videos = [simple_dict(v) for v in user_videos]
 user_videos_df = pd.DataFrame(user_videos)
 user_videos_df.to_csv('{}_videos.csv'.format(username),index=False)
-
-print(user_videos_df['n_plays'].sum())
