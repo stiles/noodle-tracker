@@ -14,6 +14,7 @@ user_videos = api.by_username(username, count=count)
 
 def simple_dict(tiktok_dict):
   to_return = {}
+  to_return['video']['cover']
   to_return['user_name'] = tiktok_dict['author']['uniqueId']
   to_return['user_id'] = tiktok_dict['author']['id']
   to_return['video_id'] = tiktok_dict['id']
