@@ -1,7 +1,7 @@
 [
     {
         "Category":"All days",
-        "Bones":30,
+        "Bones":31,
         "No Bones":25,
         "No Video":26
     },
@@ -13,7 +13,7 @@
     },
     {
         "Category":"Weekdays",
-        "Bones":25,
+        "Bones":26,
         "No Bones":19,
         "No Video":13
     }
