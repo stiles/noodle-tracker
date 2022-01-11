@@ -12,6 +12,7 @@ jupyterlab = "*"
 nb-black = "*"
 click = "*"
 requests = "*"
+numpy = "*"
 
 [dev-packages]
 

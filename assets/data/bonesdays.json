@@ -1,5 +1,44 @@
 [
     {
+        "date":"2022-01-11",
+        "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7051972968347503919",
+        "weekday":"Tuesday",
+        "month":"January",
+        "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
+        "week":2,
+        "weekstart":1641772800000,
+        "display_date":"Jan. 11 "
+    },
+    {
+        "date":"2022-01-07",
+        "bones_nobones":"Bones!",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7050491114775842095",
+        "weekday":"Friday",
+        "month":"January",
+        "weekend":false,
+        "bones_class":"bones",
+        "weekend_class":"false",
+        "week":1,
+        "weekstart":1641168000000,
+        "display_date":"Jan. 7 "
+    },
+    {
+        "date":"2022-01-03",
+        "bones_nobones":"No bones",
+        "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7048998918729764102",
+        "weekday":"Monday",
+        "month":"January",
+        "weekend":false,
+        "bones_class":"no-bones",
+        "weekend_class":"false",
+        "week":1,
+        "weekstart":1641168000000,
+        "display_date":"Jan. 3 "
+    },
+    {
         "date":"2022-01-01",
         "bones_nobones":"Bones!",
         "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7048271702387739910",
