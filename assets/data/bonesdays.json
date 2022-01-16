@@ -1,17 +1,17 @@
 [
     {
-        "date":"2022-01-17",
+        "date":"2022-01-16",
         "bones_nobones":"No bones",
         "url":"https:\/\/www.tiktok.com\/@jongraz\/video\/7053837902991658287",
-        "weekday":"Monday",
+        "weekday":"Sunday",
         "month":"January",
         "month-year":"2022-01",
-        "weekend":false,
+        "weekend":true,
         "bones_class":"no-bones",
-        "weekend_class":"false",
-        "week":3,
-        "weekstart":1642377600000,
-        "display_date":"Jan. 17 "
+        "weekend_class":"true",
+        "week":2,
+        "weekstart":1641772800000,
+        "display_date":"Jan. 16 "
     },
     {
         "date":"2022-01-15",
